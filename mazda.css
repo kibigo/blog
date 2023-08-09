@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    width: 60%;
+    margin: auto;
+    background-color: azure;
+    text-align: center;
+}
+
+#overview h2 {
+    font-size: 150%;
+    color: darkcyan;
+}
+
+#overview p {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#standard h2 {
+    font-size: 150%;
+    color: darkcyan;
+}
+
+#standard p{
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+img{
+    max-height: 800px;
+    width: 40%;
+    object-fit: cover;
+    
+}
+header{
+    color: blue;
+    padding: 10px;
+    
+}
